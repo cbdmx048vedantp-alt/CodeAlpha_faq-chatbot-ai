@@ -1,0 +1,6 @@
+{
+  "name": "FAQ Chatbot AI",
+  "description": "An intelligent AI-powered FAQ chatbot that uses NLP and vector similarity to provide accurate answers from a trusted dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
